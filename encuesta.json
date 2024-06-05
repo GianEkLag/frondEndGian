@@ -1,0 +1,196 @@
+{
+  "carrera": [
+    {
+      "id": "1",
+      "ID_carrera": "1",
+      "Nombre": "Ingeniería en Administración",
+      "Abreviacion": "ADMON"
+    },
+    {
+      "id": "2",
+      "ID_carrera": "2",
+      "Nombre": "Arquitectura",
+      "Abreviacion": "ARQUI"
+    },
+    {
+      "id": "3",
+      "ID_carrera": "3",
+      "Nombre": "Ingeniería en Gestión Empresarial",
+      "Abreviacion": "INGE"
+    },
+    {
+      "id": "4",
+      "ID_carrera": "4",
+      "Nombre": "Ingeniería en Sistemas Computacionales",
+      "Abreviacion": "ISIC"
+    },
+    {
+      "id": "5",
+      "ID_carrera": "5",
+      "Nombre": "Ingeniería en Tecnologías de la Información y la Comunicación",
+      "Abreviacion": "TICS"
+    },
+    {
+      "id": "6",
+      "ID_carrera": "6",
+      "Nombre": "Turismo",
+      "Abreviacion": "Turistiar"
+    },
+    {
+      "id": "7",
+      "ID_carrera": "7",
+      "Nombre": "Ingenieria Civil",
+      "Abreviacion": "Albañiles mazisos"
+    }
+  ],
+  "cuestionario": [
+    {
+      "id": "2",
+      "ID_Cuestionario": "2",
+      "Titulo": "Encuesta egresados 2018",
+      "Descripcion": "Encuesta para ver si sirve la base de datos ",
+      "Anio": "2010",
+      "ID_carrera": "1"
+    },
+    {
+      "id": "100",
+      "ID_Cuestionario": "100",
+      "Titulo": "Encuesta egresados 2019",
+      "Descripcion": "Encuesta para ver si jala",
+      "Anio": "2011",
+      "ID_carrera": "1"
+    },
+    {
+      "id": "101",
+      "ID_Cuestionario": "101",
+      "Titulo": "Encuesta egresados 2020",
+      "Descripcion": "Encuesta para ver si jala editar",
+      "Anio": "2012",
+      "ID_carrera": "1"
+    },
+    {
+      "id": "102",
+      "ID_Cuestionario": "102",
+      "Titulo": "Encuesta egresados 2021",
+      "Descripcion": "Encuesta",
+      "Anio": "2013",
+      "ID_carrera": "1"
+    },
+    {
+      "id": "103",
+      "ID_Cuestionario": "103",
+      "Titulo": "Encuesta egresados 2022",
+      "Descripcion": "Encuesta shida",
+      "Anio": "2014",
+      "ID_carrera": "1"
+    },
+    {
+      "id": "3",
+      "ID_Cuestionario": "3",
+      "Titulo": "Encuesta egresados 2028",
+      "Descripcion": "Encuesta de egresados del 2028",
+      "Anio": "2028",
+      "ID_carrera": "2"
+    },
+    {
+      "id": "4",
+      "ID_Cuestionario": "4",
+      "Titulo": "Encuesta egresados 2023",
+      "Descripcion": "Encuesta para ver los problemas de los egresados",
+      "Anio": "2023",
+      "ID_carrera": "2"
+    },
+    {
+      "id": "5",
+      "ID_Cuestionario": "5",
+      "Titulo": "Encuesta egresados 2020",
+      "Descripcion": "Encuesta de egresados Gestión 2020",
+      "Anio": "2020",
+      "ID_carrera": "3"
+    },
+    {
+      "id": "6",
+      "ID_Cuestionario": "6",
+      "Titulo": "Encuesta egresados 2015",
+      "Descripcion": "Encuesta de egresados del 2015",
+      "Anio": "2015",
+      "ID_carrera": "3"
+    },
+    {
+      "id": "7",
+      "ID_Cuestionario": "7",
+      "Titulo": "Encuesta egresados 2024",
+      "Descripcion": "Encuesta de los poderosísimos ISIC",
+      "Anio": "2024",
+      "ID_carrera": "4"
+    },
+    {
+      "id": "8",
+      "ID_Cuestionario": "8",
+      "Titulo": "Encuesta egresados 2021",
+      "Descripcion": "Encuesta Pandémica",
+      "Anio": "2021",
+      "ID_carrera": "4"
+    },
+    {
+      "id": "9",
+      "ID_Cuestionario": "9",
+      "Titulo": "Encuesta egresados 2010",
+      "Descripcion": "Encuesta de los TICS jajaja",
+      "Anio": "2010",
+      "ID_carrera": "5"
+    },
+    {
+      "id": "10",
+      "ID_Cuestionario": "10",
+      "Titulo": "Encuesta egresados 2050",
+      "Descripcion": "Encuesta de egresados del 2050",
+      "Anio": "2050",
+      "ID_carrera": "5"
+    }
+  ],
+  "preguntas": [
+    {
+      "id": "1",
+      "ID_Pregunta": "1",
+      "Numero": "1",
+      "Contenido": "¿Razón por la cual no se a titulado?",
+      "ID_Cuestionario": "4"
+    },
+    {
+      "id": "2",
+      "ID_Pregunta": "2",
+      "Numero": "2",
+      "Contenido": "¿Razón por la cual no se a titulado?",
+      "ID_Cuestionario": "4"
+    },
+    {
+      "id": "3",
+      "ID_Pregunta": "3",
+      "Numero": "3",
+      "Contenido": "¿Razón por la cual no se a titulado?",
+      "ID_Cuestionario": "4"
+    },
+    {
+      "id": "4",
+      "ID_Pregunta": "4",
+      "Numero": "1",
+      "Contenido": "¿Razón por la cual no se a titulado?",
+      "ID_Cuestionario": "1"
+    },
+    {
+      "id": "5",
+      "ID_Pregunta": "5",
+      "Numero": "2",
+      "Contenido": "¿Razón por la cual no se a titulado?",
+      "ID_Cuestionario": "1"
+    },
+    {
+      "id": "6",
+      "ID_Pregunta": "6",
+      "Numero": "10",
+      "Contenido": "¿Razón por la cual no se a titulado?",
+      "ID_Cuestionario": "1"
+    }
+  ]
+}
